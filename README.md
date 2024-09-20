@@ -16,6 +16,13 @@ Notes: By merging the data in this manner, multiple uses of a domain can be obse
 
 
 
+
+
+
+
+
+
+
 RO:
 Primul pas a constat in analiza datelor folosindu-ma de Excel, pentru a intelege tematica acestora si informatii cheie. Am comparat valorile pentru cateva domenii alese la intamplare in fiecare set de date pentru a putea observa diferentele cu ajutorul uneie coloane cu date foarte specifice.
 	Dupa asta, m-am ajutat de libraria Pandas din Python pentru a crea DataFrame-uri cu datele oferite. Am curatat datele pentru a fi cat mai usor de privit in ansamblu. Ulterior, am eliminat coloanele care aveau informatii repetitive si care nu urmau sa fie folosite in crearea celui de al patrulea set de date.
